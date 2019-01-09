@@ -131,7 +131,7 @@ open the System Properties window. Select the **Advanced** tab, then click the
 
 <img src="https://drive.google.com/uc?export=view&id=1bgBdwrbXXixUatLhLaV9Mcb1gTlA9Qte" width=400 heigth= 200> <img src="https://drive.google.com/uc?export=view&id=1z-ZazBYnwHA351Yx_H2AfH9HK1uXIljG" width=400 heigth= 200> 
 
-<img src="https://drive.google.com/uc?export=view&id=13pBFwn1juGhHmFwjURsa3uwpgr_Ikkhy" width=400 heigth= 200> <img src="https://drive.google.com/uc?export=view&id=1aNcCQEwhplR62n-tqmg3VF23GDKtq2fb" width=400 heigth= 200> 
+<img src="https://drive.google.com/uc?export=view&id=13pBFwn1juGhHmFwjURsa3uwpgr_Ikkhy" width=400 heigth= 200>  
 
 4. In the list **User variables** select **PATH** and click the Edit button. (If
 there is no PATH entry in the list, click the New button to create one.)  
